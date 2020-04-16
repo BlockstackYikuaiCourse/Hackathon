@@ -15,6 +15,7 @@
 - [去中心化博客 sigle](https://app.sigle.io/)
 - [去中心化网盘 xordrive](https://xordrive.io/)
 - [去中心化聊天室 mumble](https://app.trymumble.com/)
+- [去中心化邮箱](https://app.dmail.online/inbox)
 
 ## 评判标准
 会根据产品的 **商业逻辑**、**技术难度**、**产品实现完整度** 三个角度来评分
